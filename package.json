@@ -1,0 +1,10 @@
+{
+  "name": "aphrodite-prop-type",
+  "version": "1.0.0",
+  "description": "A prop type for aphrodite. To be open-sourced.",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1"
+  }
+}
