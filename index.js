@@ -1,4 +1,4 @@
-const PropTypes = require('react').PropTypes;
+const PropTypes = require('prop-types');
 
 const aphroditePropType = PropTypes.oneOfType([
   PropTypes.arrayOf(PropTypes.oneOfType([
